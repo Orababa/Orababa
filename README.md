@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orababa
 - 👀 I’m interested in R programming for life sciences 
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently use R and Bash commandline to understand gene expression and antimicrobial resistance
 - 💞️ I’m looking to collaborate on bioscience projects
 - 📫 How to reach me Oluwatosinorababa@gmail.com
 
